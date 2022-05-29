@@ -1,2 +1,2 @@
 # piotr dobrzaniecki
-## adiunkt
+## aktualne zajęcie: adiunkt w Instytucie KOMAG
