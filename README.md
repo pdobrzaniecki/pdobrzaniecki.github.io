@@ -1,5 +1,2 @@
 # piotr dobrzaniecki
-
-# aktualne zajęcie: pracownik naukowy
-
-
+## adiunkt
